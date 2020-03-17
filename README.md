@@ -1,5 +1,5 @@
 # Review-on-Sentiment-Analysis-Models
-The purpose of this review is to provide a broad but moderately deep understanding of different types of sentiment analysis models and their respective pros and cons. We will be exploring 3 different types of datasets and analysed them through different sentiment analysis models, , which include:
+The purpose of this review is to provide a broad but moderately deep understanding of different types of sentiment analysis models and their respective pros and cons. We will be exploring 3 different types of datasets and analysed them through different sentiment analysis models, which include:
 
 1. Traditional models
 
